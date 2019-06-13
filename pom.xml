@@ -4,6 +4,7 @@
   <artifactId>xeger</artifactId>
   <version>1.0.0-RELEASE</version>
   <name>Xeger</name>
+  <url>https://github.com/krraghavan/xeger</url>
   <description>
     Small library, producing random text matching arbitrary regular expressions.
     This fork is deployed to Maven central to make it available.
